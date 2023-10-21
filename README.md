@@ -11,9 +11,6 @@
     <img height="20" src="https://img.shields.io/github/followers/zio-tt?label=follow&logo=github&style=flat" />
   </a>
   <br>
-  <a href="https://stackoverflow.com/users/60161/tomohiro-terao">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/60161?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
   <a href="https://qiita.com/zio-tt">
     <img height="20" src="https://qiita-badge.apiapi.app/s/zio-tt/posts.svg" />
   </a>
