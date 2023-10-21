@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm zio-tt ! I'm an engineer currently learning Ruby on Rails.
+
 <p align="left">
   <a href="https://github.com/zio-tt/zio-tt/">
     <img src="https://komarev.com/ghpvc/?username=zio-tt" alt="zio-tt" />
